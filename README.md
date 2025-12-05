@@ -54,6 +54,7 @@ Last updated: 01. Dec. 2025
 | [DiffAD](https://arxiv.org/abs/2503.12170)                                                                                           |  67.92   |   38.64   | 2025 |        -         |
 | [OAIAD](https://www.mdpi.com/2075-1702/13/10/965)                                                                                    |  68.73   |   48.86   | 2025 |     Machines     |
 | [DIVER](https://arxiv.org/abs/2507.04049)                                                                                            |  68.90   |   36.75   | 2025 |        -         |
+| [ReCogDrive](https://arxiv.org/abs/2506.08052)                                                                                       |  71.36   |   45.45   | 2025 |        -         |
 | [Raw2Drive](https://arxiv.org/abs/2505.16394)                                                                                        |  71.36   |   50.24   | 2025 |     NeurIPS      |
 | [VL](https://arxiv.org/abs/2406.01544)                                                                                               |  73.29   |   65.44   | 2025 |       ICRA       |
 | [Hydra-NeXt](https://arxiv.org/abs/2503.12030)                                                                                       |  73.86   |   50.00   | 2025 |        -         |

